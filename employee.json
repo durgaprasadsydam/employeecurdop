@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "prasad",
+      "phone": 9441671326,
+      "mail": "durgaprasad@onpassive.com"
+    },
+    {
+      "id": 2,
+      "name": "Haresh",
+      "phone": 9966558822,
+      "mail": "harish2@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Sydam",
+      "phone": "8855221144",
+      "mail": "sydam@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Sydam",
+      "phone": "8855221122",
+      "mail": "sydam@gmail.com33"
+    }
+  ]
+}
